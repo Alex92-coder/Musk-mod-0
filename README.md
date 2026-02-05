@@ -1,2 +1,2 @@
 # Musk-mod-0
-Ejercicios 
+Estos son todos los ejercicios que realizado a lo largo de mi aprendizaje de "Fundamentos de la Programacion"
